@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 430" role="img" aria-labelledby="title description">
+  <title id="title">Learning at a laptop</title>
+  <desc id="description">A person sits at a desk with a laptop, a plant, and a sunny window.</desc>
+  <defs>
+    <linearGradient id="wall" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f6eee0"/>
+      <stop offset="1" stop-color="#e4eee6"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#426f68"/>
+      <stop offset="1" stop-color="#294c4c"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="430" rx="14" fill="url(#wall)"/>
+  <circle cx="501" cy="93" r="44" fill="#edc675"/>
+  <rect x="418" y="46" width="142" height="152" rx="4" fill="#fdf9ef" opacity=".8"/>
+  <path d="M489 46v152M418 122h142" stroke="#d3ddd4" stroke-width="8"/>
+  <path d="M0 334h640v96H0z" fill="#d9c4a4"/>
+  <path d="M0 334h640" stroke="#c4aa85" stroke-width="5"/>
+  <rect x="73" y="115" width="64" height="219" rx="31" fill="#cfdfd1"/>
+  <path d="M104 137c-30-14-38-37-29-58 24 6 36 25 29 58Zm6-15c2-29 17-44 37-45 0 22-13 39-37 45Zm-5 60c-27-12-36-30-29-49 22 5 35 21 29 49Zm7-10c5-23 20-35 39-34-3 19-17 32-39 34Z" fill="#5f9378"/>
+  <path d="M95 334h19l-4-86h-11z" fill="#987b5b"/>
+  <rect x="207" y="185" width="233" height="149" rx="12" fill="#35464a"/>
+  <rect x="219" y="197" width="209" height="126" rx="5" fill="url(#screen)"/>
+  <circle cx="323" cy="204" r="2" fill="#92afa0"/>
+  <rect x="188" y="333" width="271" height="13" rx="6" fill="#9ba5a0"/>
+  <path d="M279 334h90l-9 7h-72z" fill="#c6cfca"/>
+  <path d="M262 226h57M262 242h96M262 258h69M262 274h111" stroke="#9fc2ad" stroke-linecap="round" stroke-width="5" opacity=".83"/>
+  <path d="M441 240c-33 4-50 30-45 62l5 32h95l-7-47c-4-29-21-48-48-47Z" fill="#d58968"/>
+  <path d="M416 287c-23-8-43-4-56 12l-46 36 18 18 72-28 15-38Z" fill="#d58968"/>
+  <path d="M391 332c-27 4-44 10-57 21h63l19-9-25-12Z" fill="#5d6963"/>
+  <path d="M439 196c-18 5-30 21-27 39 2 14 14 24 29 24 21 0 37-19 33-39-3-18-17-29-35-24Z" fill="#c88466"/>
+  <path d="M411 222c-7-24 8-46 30-47 19-1 35 12 37 31-10-6-21-12-29-24-6 15-21 25-38 27Z" fill="#3c4846"/>
+  <path d="M430 240c8 5 17 5 25-1" fill="none" stroke="#885543" stroke-linecap="round" stroke-width="3"/>
+  <path d="M477 260c20 17 25 35 14 53-7 12-18 17-35 20l-4-20c13-6 15-13 8-25-8-12-8-20 1-28l16 0Z" fill="#d58968"/>
+  <path d="M458 335h39l2 9h-41z" fill="#56625c"/>
+  <ellipse cx="327" cy="378" rx="218" ry="13" fill="#b9a17f" opacity=".42"/>
+</svg>
